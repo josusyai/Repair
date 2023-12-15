@@ -13,4 +13,4 @@ _**Comandos con Permisos:**_
  - fix:
     permiso: fix.cmd
 
-###### **tiene como aliases de "repair", mensajes configurables en config.yml**
+###### **tiene de alias como "repair y fix", todos los mensajes configurables en "config.yml"**
