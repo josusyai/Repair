@@ -1,0 +1,16 @@
+name: Repair
+main: josus\Repair
+author: Josus
+version: 1
+api: 5.0.0
+description: "Plugin de Repair By Josus"
+
+permissions:
+  fix.cmd:
+    default: op
+  fix-all.command.use:
+    default: op
+  fix-hand.command.use:
+    default: op
+  fix-all-others.command.use:
+    default: op
